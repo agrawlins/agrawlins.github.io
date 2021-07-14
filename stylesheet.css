@@ -1,0 +1,23 @@
+body {
+    background-image: url("Pictures/Background/chalkboard_texture_mc2015_by_mattiamc_d8dbnac-pre.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #333333;
+   }
+h1 {
+    color: snow;
+}
+
+img {
+    border-style:groove;
+    border-radius: 20%;
+    
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
