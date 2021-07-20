@@ -63,3 +63,7 @@ span {
     background-image: linear-gradient(rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.50));
     padding: 20px;
 }
+
+.mb-med {
+    margin-bottom: 2rem;
+}
